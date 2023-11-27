@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppMyVideo_JoanRojas</string>
+    <string name="presione_el_boton">Presione el boton...</string>
+    <string name="listar_videos">listar videos</string>
+    <string name="url">URL</string>
+    <string name="subtitulo">Subtitulo</string>
+    <string name="titulo">Titulo</string>
+    <string name="lista_de_videos">Lista de videos</string>
+</resources>
